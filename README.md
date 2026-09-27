@@ -37,4 +37,4 @@ Python · Pandas · NumPy · scikit-learn · statsmodels · SciPy · seaborn · 
 
 ## Team
 
-Ethan Kok ([@ethankok](https://github.com/ethankok)) · Rui Heng · David Sim ([@daaavidsim](https://github.com/daaavidsim))
+Ethan Kok ([@ethankok](https://github.com/ethankok)) · Rui Heng ([@TehBingLessSugar](https://github.com/TehBingLessSugar)) · David Sim ([@daaavidsim](https://github.com/daaavidsim))
